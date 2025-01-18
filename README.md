@@ -3,7 +3,6 @@ Curated list of blog posts, videos and resources on contract testing
 
 ### Contents
 - [Awesome Contract Testing](#awesome-contract-testing)
-  - [Contents](#contents)
   - [Books](#books)
   - [Videos](#videos)
   - [Courses](#courses)
